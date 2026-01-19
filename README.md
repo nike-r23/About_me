@@ -14,3 +14,6 @@ I enjoy working at the intersection of:
 - Process-focused insights using Python and SQL
 
 This space is a technical complement to my professional experience — practical, structured, and data-driven.
+
+📩 Contact: nikedelcarmen@gmail.com
+LinkedIn: www.linkedin.com/in/nike-ruiz
